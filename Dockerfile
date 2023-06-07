@@ -44,4 +44,4 @@ COPY root/ /
 
 # ports and volumes
 VOLUME /config
-EXPOSE 9117
+EXPOSE 10000
